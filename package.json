@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AbdoM23/Marwa7aAirlines.git"
+    "url": "git+https://github.com/emarah12/LobnaAirlines"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AbdoM23/Marwa7aAirlines/issues"
+    "url": "https://github.com/emarah12/LobnaAirlines/issues"
   },
-  "homepage": "https://github.com/AbdoM23/Marwa7aAirlines#readme",
+  "homepage": "https://github.com/emarah12/LobnaAirlines#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "bcryptjs": "^2.4.3",

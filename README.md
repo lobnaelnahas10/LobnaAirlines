@@ -8,7 +8,7 @@
 
 #### 1.clone https://github.com/emarah12/LobnaAirlines
 #### 2.install npm packages
-##### frontend cd cleint then npm install 
+##### frontend cd client then npm install 
 
 ##### backend  npm install
 
